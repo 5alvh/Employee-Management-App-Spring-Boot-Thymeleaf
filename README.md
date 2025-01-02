@@ -15,30 +15,30 @@
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ---
 
-:gear: Backend:
+# Backend:
 
-:spring_boot: Spring Boot
-:package: Spring Data JPA
-:leafy_green: Thymeleaf
-:floppy_disk: H2 Database (or any database you configure in application.properties)
-
----
-
-Frontend:
+- :spring_boot: Spring Boot
+- :package: Spring Data JPA
+- :leafy_green: Thymeleaf
+- :floppy_disk: H2 Database (or any database you configure in application.properties)
 
 ---
 
-:leaf: Thymeleaf for server-side rendering of HTML templates
-:blue_heart: Bootstrap for styling the web pages
-:pushpin: Prerequisites
-Java 17 or higher
-Maven
-Spring Boot
-IDE (e.g., IntelliJ IDEA, Eclipse)
+# Frontend:
+
+---
+
+- :leaf: Thymeleaf for server-side rendering of HTML templates
+- :blue_heart: Bootstrap for styling the web pages
+- :pushpin: Prerequisites
+- Java 17 or higher
+- Maven
+- Spring Boot
+- IDE (e.g., IntelliJ IDEA, Eclipse)
 
 ---
 

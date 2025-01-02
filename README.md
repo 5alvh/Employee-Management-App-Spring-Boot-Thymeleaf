@@ -1,7 +1,7 @@
-:briefcase: Employee Management Application (Spring Boot + Thymeleaf)
-This is a simple Employee Management application developed using Spring Boot and Thymeleaf for the front-end. It provides basic CRUD (Create, Read, Update, Delete) operations to manage employee records in a web-based interface.
+# Employee Management Application (Spring Boot + Thymeleaf) 
+## This is a simple Employee Management application developed using Spring Boot and Thymeleaf for the front-end. It provides basic CRUD (Create, Read, Update, Delete) operations to manage employee records in a web-based interface.
 
-:sparkles: Features
+:sparkles: ## Features
 :eyes: View all employees in a list.
 ![1](https://github.com/user-attachments/assets/0f89dc65-21cf-4da9-872c-5d67c6a7191e)
 :heavy_plus_sign: Add a new employee.

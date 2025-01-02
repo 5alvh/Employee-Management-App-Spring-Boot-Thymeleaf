@@ -32,7 +32,7 @@
 
 ---
 
-- :leaf: Thymeleaf for server-side rendering of HTML templates
+- :leafy_green: Thymeleaf for server-side rendering of HTML templates
 - :blue_heart: Bootstrap for styling the web pages
 - :pushpin: Prerequisites
 - Java 17 or higher
@@ -41,10 +41,11 @@
 - IDE (e.g., IntelliJ IDEA, Eclipse)
 
 ---
+Application Endpoints
+---
 
-:book: Application Endpoints
-/employees/list: Displays the list of employees.
-/employees/showFormForAdd: Displays the form to add a new employee.
-/employees/showFormForUpdate: Displays the form to update an existing employee.
-/employees/deleteEmployee: Deletes an employee.
-/employees/save: Saves a new or updated employee.
+- /employees/list: Displays the list of employees.
+- /employees/showFormForAdd: Displays the form to add a new employee.
+- /employees/showFormForUpdate: Displays the form to update an existing employee.
+- /employees/deleteEmployee: Deletes an employee.
+- /employees/save: Saves a new or updated employee.
